@@ -1,0 +1,19 @@
+######################################################
+for gulp build
+npm install --save-dev gulp-build
+----------------------------------------
+
+for setting up environment for NPM/typescript [grunt.js could not be load in vs task runner]
+---------------------------------------------
+npm cache clean
+
+go to the folder using CMD
+
+npm install --global --production npm-windows-upgrade
+npm-windows-upgrade --npm-version latest
+######################################################
+
+go to project folder using command prompt
+-----------------------------------------
+npm rebuild node-sass [for bindings]
+######################################################

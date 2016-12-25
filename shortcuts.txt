@@ -1,0 +1,23 @@
+Bookmarks
+	ctrl + k,k  =====> bookmark
+	ctrl + k,N  =====> next bookmark
+	ctrl + k,p  =====> previous bookmark
+	ctrl + w,b  =====> bookmark window
+
+Productivity power tools extension
+code snippets
+
+ctrl + f6 to go to the next tab
+ctrl + shift + f6 to go to the previous tab
+
+ctrl + f4 to close the tab
+
+alt + w + l to clean all open tabs
+
+ctrl + q quick launch
+
+shift + alt + enter for full screen mode
+
+ctrl + m twice to expand and collapse method
+
+

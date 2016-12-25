@@ -1,0 +1,25 @@
+http://web-engineering.info/tech/JsFrontendApp/book/ -- javascript online ebook
+http://singlepageappbook.com/
+https://addyosmani.com/resources/essentialjsdesignpatterns/book/
+http://jsforcats.com/
+https://leanpub.com/understandinges6/read -ecma6
+http://read.humanjavascript.com/
+http://bonsaiden.github.io/JavaScript-Garden/
+https://addyosmani.com/backbone-fundamentals/
+http://meteortips.com/first-meteor-tutorial/
+http://tutorialzine.com/books/jquery-trickshots/
+
+
+
+https://www.amazon.com/gp/product/178528083X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=whatpixel-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=178528083X&linkId=a2b03f34fc90f8b08b38d8a4fa8ec34d
+https://www.amazon.com/gp/product/1430264489/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=whatpixel-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1430264489&linkId=00a0f1935a4ae727a014dc5e7e2295db
+https://www.amazon.com/gp/product/1291107371/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=whatpixel-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1291107371&linkId=6b153baec726f7763400bce7676622ae
+https://www.amazon.com/gp/product/1785884441/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=whatpixel-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1785884441&linkId=90402bb4319317ba78a2259fa02da6c2
+
+
+https://visualstudiomagazine.com/articles/2015/03/01/asynchronous-processing.aspx
+https://davidwalsh.name/promises
+https://tutorialstown.com/the-any-type-in-typescript/
+https://auth0.com/blog/angular2-series-forms-and-custom-validation/
+
+https://angular-2-training-book.rangle.io/handout/observables/using_observables_from_other_sources.html

@@ -1,0 +1,12 @@
+Microsoft Fixed Bug and Known Issues
+https://support.microsoft.com/en-us/kb/3025135
+
+
+https://tonesdotnetblog.wordpress.com/2016/07/31/asp-net-core-1-0-how-to-install-gulp/
+http://www.hanselman.com/blog/VisualStudio2015FixingDependenciesNpmNotInstalledFromFseventsWithNodeOnWindows.aspx
+
+Agile
+https://www.visualstudio.com/en-us/docs/work/guidance/agile-process-workflow
+
+dotnet cli
+https://docs.microsoft.com/en-us/dotnet/articles/core/tools/

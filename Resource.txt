@@ -1,0 +1,6 @@
+Azure time zone conversion
+
+CONVERT(datetime,SWITCHOFFSET(CONVERT(datetimeoffset,getdate()),'+05:30'))
+
+
+##############################################################################
